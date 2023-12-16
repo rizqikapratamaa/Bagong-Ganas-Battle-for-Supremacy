@@ -5,5 +5,5 @@ quickstart:-
 
 quickpick([]):- !.
     quickpick([Head|Tail]):-
-    takeLocations(Head),
+    takeLocation(Head),
     quickpick(Tail).
