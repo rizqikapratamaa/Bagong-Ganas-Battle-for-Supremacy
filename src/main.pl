@@ -1,0 +1,11 @@
+:- include('commons.pl').
+:- include('endturn.pl').
+:- include('initiate.pl').
+:- include('map.pl').
+:- include('pick_map.pl').
+:- include('player.pl').
+:- include('attack.pl').
+:- include('risk.pl').
+:- include('cheat.pl').
+:- include('move.pl').
+:- include('quickstart.pl').
